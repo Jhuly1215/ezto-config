@@ -1,0 +1,4 @@
+# main/application.yml
+# configuración shared
+log_level: "INFO"
+redis_host: "redis.default.svc.cluster.local:6379"

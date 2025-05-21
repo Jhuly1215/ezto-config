@@ -1,0 +1,3 @@
+# main/application-dev.yml
+log_level: "DEBUG"
+redis_host: "localhost:6379"

@@ -1,0 +1,6 @@
+# main/promotions-service.yml
+host: "0.0.0.0"
+port: 8005
+database_url: "postgresql://promo_user:promo_pass@postgres:5432/promotions"
+feature_flags:
+  enable_beta_discounts: false

@@ -1,0 +1,4 @@
+# main/promotions-service-dev.yml
+database_url: "postgresql://promo_dev:dev_pass@localhost:5432/promotions_dev"
+feature_flags:
+  enable_beta_discounts: true
