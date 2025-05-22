@@ -2,7 +2,7 @@
 
 # (opcional) host y puerto de tu microservicio
 host: "0.0.0.0"
-port: 8005
+port: 8000
 
 firebase:
   type: "service_account"
