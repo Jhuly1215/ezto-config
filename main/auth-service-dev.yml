@@ -19,7 +19,7 @@ firebase:
 
 keycloak:
   url: "http://keycloak:8080"
-  realm: "ezto-realm"
+  realm: "master"
   client_id: "ezto-client"
   client_secret: "{cipher}gAAAAABoLlXEDu3oZMQEcExNLc79daj-E6ripZnmJGtJShIf96QGNZVGLzBgxAqdQeJgNJYqdwJfDvEskSSUMbt2MofX3wnxrA=="
   username: "admin"
